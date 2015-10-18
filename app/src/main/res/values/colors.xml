@@ -9,9 +9,4 @@
     <color name="secondary_text">#727272</color>
     <color name="icons">#FFFFFF</color>
     <color name="divider">#B6B6B6</color>
-
-    <!--FAB ICON COLORS-->
-    <color name="colorNormalMini">#FF4081</color>
-    <color name="colorPressedMini">#0097A7</color>
-    <color name="colorRippleMini">#B2EBF2</color>
 </resources>
