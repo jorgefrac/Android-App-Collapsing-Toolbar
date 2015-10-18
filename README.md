@@ -1,3 +1,6 @@
+#Android-App-Collapsing-Toolbar
+Preview live demo Collapsing Toolbar -> [Live demo](https://appetize.io/app/n7jm9we1vxpy25pp919gtpmfk0?device=nexus5&scale=75&orientation=portrait&osVersion=5.1)
+
 # Theme Material Design
 Para crear o personalizar nuestro propio tema de nuestra app en android studio basandose en el diseño de [Material Design](https://www.google.com/design/spec/material-design/introduction.html) 
 tenemos que crear o ir a nuestro archivo **colors.xml** dentro de la carpeta **values** de android studio y generar nuestros colores a utilizar en el tema.
