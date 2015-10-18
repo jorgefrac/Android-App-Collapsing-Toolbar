@@ -3,4 +3,32 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!--APP STRINGS-->
+    <!--Menu-->
+    <string name="action_add">Añadir a mis contactos</string>
+    <string name="action_favorite">Añadir a favoritos</string>
+    <!--Cards-->
+    <string name="title_card_1">Coordinator Layout</string>
+    <string name="text_card_1">
+        The Design library introduces CoordinatorLayout, a layout which provides an additional level
+        of control over touch events between child views, something which many of the components
+        in the Design library take advantage of.
+    </string>
+
+    <string name="title_card_2">AppBarLayout</string>
+    <string name="text_card_2">
+        AppBarLayout allows your Toolbar and other views (such as tabs provided by TabLayout)
+        to react to scroll events in a sibling view marked with a ScrollingViewBehavior. Now, as the
+        user scrolls, the AppBarLayout can respond to those events by using the children’s scroll flags
+        to control how they enter (scroll on screen) and exit (scroll off screen)
+    </string>
+
+    <string name="title_card_3">Collapsing Toolbar</string>
+    <string name="text_card_3">
+        Adding a Toolbar directly to an AppBarLayout gives you access to the enterAlwaysCollapsed
+        and exitUntilCollapsed scroll flags, but not the detailed control on how different elements react to
+        collapsing. For that, you can use CollapsingToolbarLayout.
+    </string>
+
 </resources>
